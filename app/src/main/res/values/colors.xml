@@ -3,4 +3,26 @@
     <color name="colorPrimary">#008577</color>
     <color name="colorPrimaryDark">#00574B</color>
     <color name="colorAccent">#D81B60</color>
+
+    <color name="rojoUno">#d62419</color>
+    <color name="rojoDos">#e34238</color>
+    <color name="rojoTres">#a50e05</color>
+    <color name="rojoCuatro">#6b0903</color>
+    <color name="rojoCinco">#f3918b</color>
+    <color name="rojoSeis">#8b413c</color>
+
+    <color name="azulUno">#2961e9</color>
+    <color name="azulDos">#0d3baa</color>
+    <color name="azulTres">#4d7bea</color>
+    <color name="azulCuatro">#18316e</color>
+    <color name="azulCinco">#3459b2</color>
+    <color name="azulSeis">#5b7ed2</color>
+    
+    <color name="verdeUno">#5bd272</color>
+    <color name="verdeDos">#60d25b</color>
+    <color name="verdeTres">#20d218</color>
+    <color name="verdeCuatro">#18d250</color>
+    <color name="verdeCinco">#08ad3a</color>
+    <color name="verdeSeis">#0bad08</color>
+
 </resources>
